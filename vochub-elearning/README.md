@@ -1,5 +1,19 @@
 # VochubElearning
 
+SET UP
+fork the repo to your account.
+copy the repository url
+clone the repository to your local directory
+cd my-project-folder
+git clone https://github.com/KingsleyUbah/react.git
+create a branch from the master repo
+work on given part of the project as assigned to you
+add and commit
+git add .
+git commit -am "adding a full stop to the code of conduct document."
+push the repository to the branch created.
+Please do not merge the repo to the master untill confirmed.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
 ## Development server
