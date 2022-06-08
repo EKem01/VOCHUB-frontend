@@ -1,8 +1,12 @@
 # VochubElearning
 
+<<<<<<< HEAD:client/README.md
 
 SET UP
 
+=======
+SET UP
+>>>>>>> 8113e4d548ef3f0c0270524ab36a2cae243789fc:vochub-elearning/README.md
 fork the repo to your account.
 copy the repository url
 clone the repository to your local directory
